@@ -1,0 +1,2 @@
+# dbox.zone
+Static website
